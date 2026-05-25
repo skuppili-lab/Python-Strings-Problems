@@ -1,0 +1,14 @@
+200,Food,Pizza
+500,Travel,Bus Ticket
+1000,Shopping,Shoes
+150,Food,Burger
+300,Recharge,Mobile Recharge
+700,Travel,Train Ticket
+250,Entertainment,Movie
+200,food,munch
+200,food,eggs
+400,car,cleaner
+600,gear,screw
+1000,gear,blot
+300,doar,wood
+1200,metal,steel
